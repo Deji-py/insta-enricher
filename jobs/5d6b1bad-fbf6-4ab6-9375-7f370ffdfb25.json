@@ -1,0 +1,1 @@
+{"jobId":"5d6b1bad-fbf6-4ab6-9375-7f370ffdfb25","startTime":"2025-05-28T22:59:07.799Z","totalProfiles":11,"processedProfiles":11,"status":"completed","estimatedCompletionMinutes":1,"requestsPerMinute":60,"batchDistribution":[{"nodeId":"node-1","profileCount":11,"estimatedMinutes":1}],"completedAt":"2025-05-28T22:59:11.972Z"}
